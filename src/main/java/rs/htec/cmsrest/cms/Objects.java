@@ -6,6 +6,7 @@
 package rs.htec.cmsrest.cms;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -13,6 +14,10 @@ import java.util.List;
  * @author stefan
  */
 public class Objects {
-    
-    private static List<News> news = new ArrayList<>();
+
+    //public static List<News> news = new ArrayList<>();
+    //public static String[] niz = {"Stefan","Petar","Nikola","Marko"};
+    //public static List<String> niz1 = new LinkedList<>();
+    public static List<News> news = new LinkedList<>();
+
 }

@@ -15,6 +15,12 @@ public class News {
     private String title;
     private String body;
 
+    public News(int i, String t, String b){
+        id = i;
+        title = t;
+        body = b;
+    }
+    
     public int getId() {
         return id;
     }
@@ -39,4 +45,5 @@ public class News {
         this.body = body;
     }
 
+    
 }

@@ -1,1 +1,4 @@
 rs/htec/cmsrest/cms/rest/RestEndpoint.class
+rs/htec/cmsrest/cms/Objects.class
+rs/htec/cmsrest/cms/DBBrocker.class
+rs/htec/cmsrest/cms/News.class
